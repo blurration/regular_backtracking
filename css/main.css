@@ -1,0 +1,22 @@
+.wrapper{
+    margin: 20px;
+    clear: both;
+}
+
+.go{
+    float: left;
+    margin-left: 50px;
+    font-size: 2em;
+    margin-top: 20px;
+    margin: 20px;
+}
+
+form *{
+    float: left;
+    vertical-align: top;
+    margin: 0 15px;
+}
+
+form{
+    vertical-align: middle;
+}
